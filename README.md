@@ -18,11 +18,8 @@
 
 desenvolvedor full stack.  
 comecei a programar aos 16 anos. sigo evoluindo e construindo.
-
 atuo como analista desenvolvedor. foco em ir além do superficial, com interesse em sistemas, arquitetura e no que está por baixo das abstrações.
-
 baixo nível, controle real. desmontar, entender e montar. do código a motores a combustão. projetar e construir.
-
 criando, quebrando, testando e repetindo. projetos cada vez maiores.
 
 ---

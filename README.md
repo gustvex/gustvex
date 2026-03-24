@@ -27,8 +27,12 @@ creating, breaking, testing, and repeating. bigger projects every time.
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=c,cs,js,ts,react,vue,nodejs,nestjs,nextjs,html,css,git,linux,windows,postgres)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/LINGUAGENS-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FERRAMENTAS-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SISTEMA%20OPERACIONAL-000000?style=for-the-badge"/>
+
+<br><br>
+
+[![Skills](https://skillicons.dev/icons?i=c,cs,js,ts,react,vue,nodejs,nestjs,nextjs,html,css,git,postgres,linux,windows)](https://skillicons.dev)
 
 </div>
-
->
